@@ -110,11 +110,14 @@ h3{
 }
 .parent-3{
     position: relative;
-    left: 300px;
+    left: 274px;
     top: 70px;
     color: black;
     background-color: #00A5EC;
-    width: 80px;
+    width: 92px;
+    height: 25px;
+    padding-left: 9px;
+    padding-top: 6px;
 }
 .item-opa{
     width: 100%;
